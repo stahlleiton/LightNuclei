@@ -6,6 +6,8 @@
 *.lo
 *.o
 *.obj
+*.pcm
+*.cxx*
 
 # Precompiled Headers
 *.gch
@@ -30,3 +32,16 @@
 *.exe
 *.out
 *.app
+
+# Figures
+*.png
+*.pdf
+
+# ROOT
+*.root
+
+# EMACS
+*~
+
+# MAC
+*.DS_Store
